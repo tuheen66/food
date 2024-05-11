@@ -10,7 +10,7 @@ const Cooking = ({
   calories,
 }) => {
   return (
-    <div className=" lg:w-[550px]  border-2 rounded-xl text-[#282828] pb-8 ">
+    <div className=" lg:w-[550px]  border-2 rounded-xl text-[#282828] shadow-xl shadow-green-200 ">
       <div>
         <h2 className="text-center font-bold mb-2 py-4 text-2xl">
           Want to cook: <span>{wantToCook.length} </span>

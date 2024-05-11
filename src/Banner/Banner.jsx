@@ -3,8 +3,8 @@ import "./banner.css";
 const Banner = () => {
   return (
     <div className="min-h-[90vh] rounded-xl banner-bg bg-cover bg-center text-center py-52 space-y-8 mb-12 w-[410px] md:w-[750px] mx-auto  lg:w-full">
-      <div className="text-white  lg:w-[897px] lg:mx-auto space-y-8">
-        <h2 className="text-5xl font-bold">
+      <div className="text-white mx-2  lg:w-[897px] lg:mx-auto space-y-8">
+        <h2 className="text-4xl lg:text-5xl font-bold">
           Discover an exceptional cooking class tailored for you
         </h2>
         <p>
